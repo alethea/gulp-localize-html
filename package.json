@@ -33,5 +33,13 @@
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/alethea/gulp-html-i18n/issues"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.1.6"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

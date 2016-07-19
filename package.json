@@ -1,0 +1,37 @@
+{
+  "name": "gulp-localize-html",
+  "version": "1.0.0",
+  "description": "Translate HTML with configurable callbacks and HTML parsing",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alethea/gulp-localize-html.git"
+  },
+  "homepage": "https://github.com/alethea/gulp-localize-html",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "html",
+    "i18n",
+    "l10n",
+    "m17n",
+    "internationalization",
+    "internationalize",
+    "translation",
+    "translate",
+    "localization",
+    "localize",
+    "multilingualization"
+  ],
+  "author": "Alethea Rose <alethea@alethearose.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alethea/gulp-html-i18n/issues"
+  }
+}

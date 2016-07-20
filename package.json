@@ -34,6 +34,13 @@
   "bugs": {
     "url": "https://github.com/alethea/gulp-html-i18n/issues"
   },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "htmlparser2": "^3.9.1",
+    "through2": "^2.0.1",
+    "vinyl-fs": "^2.4.3",
+    "yaml-js": "^0.1.3"
+  },
   "devDependencies": {
     "cz-conventional-changelog": "^1.1.6"
   },

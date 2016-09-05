@@ -44,6 +44,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "cz-conventional-changelog": "^1.1.6",
+    "jshint": "^2.9.3",
     "mocha": "^2.5.3"
   },
   "config": {

@@ -30,7 +30,7 @@
     "multilingualization"
   ],
   "author": "Alethea Rose <alethea@alethearose.com>",
-  "license": "Apache-2.0",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/alethea/gulp-html-i18n/issues"
   },
